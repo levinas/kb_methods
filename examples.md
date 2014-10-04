@@ -35,6 +35,6 @@ Service that implements the core function | annotate_workspace_Genome
 Calling program in narrative | https://github.com/kbase/narrative/blob/master/src/notebook/ipython_profiles/profile_narrative/kbase_templates/static/kbase/js/fbaModelServices.js#L575
 Service URL | http://kbase.us/services/fba_model_services
 Service method API used by narrative | Invocation/RPC: fbaModelServices.annotate_workspace_Genome()
-Input description | The input contains the Genome typed object and no other parameter
+Input description | The input contains a Genome typed object and no other parameter
 Input typed object 1 | Genome
 Description of input object 1 | Information about the genome
